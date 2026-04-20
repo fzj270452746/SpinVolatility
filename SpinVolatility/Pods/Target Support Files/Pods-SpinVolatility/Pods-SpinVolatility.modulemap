@@ -1,0 +1,6 @@
+framework module Pods_SpinVolatility {
+  umbrella header "Pods-SpinVolatility-umbrella.h"
+
+  export *
+  module * { export * }
+}

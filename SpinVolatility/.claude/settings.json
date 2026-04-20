@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:shopapper.com)",
+      "Bash(xcodebuild -scheme SpinVolatility -destination 'platform=iOS Simulator,name=iPhone 16' -configuration Debug build)",
+      "Bash(xcodebuild -scheme SpinVolatility -destination 'platform=iOS Simulator,name=iPhone 16' build)"
+    ]
+  }
+}
